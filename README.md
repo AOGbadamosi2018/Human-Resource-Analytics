@@ -1,6 +1,6 @@
 # Human-Resource-Analytics
 Basic Decision Trees in python to predict future employee departures.
-Algorithm to perfrom future employee departures from an excel file.
+Algorithm to perform future employee departures from an excel file.
 
 Please remember to change the name of the input and output files for your use case.
 
