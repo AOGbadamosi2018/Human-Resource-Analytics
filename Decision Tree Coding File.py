@@ -10,7 +10,7 @@ Created on Sun Apr 12 21:12:05 2020
 
 # Importing libraries - this enables us to build work on previous work 
 
-import numpy as np #a.k.a numerical python bringd mathematical functions to code
+import numpy as np #a.k.a numerical python brings mathematical functions to code
 import pandas as pd #data processing librariy for text importation from csv im this case
 import matplotlib.pyplot as plt # library for plotting graph
 
